@@ -53,15 +53,15 @@ See [findings.md](findings.md) for full evidence and analysis.
 
 ### Juice Shop Local Lab
 
-![OWASP Juice Shop home page](juice shop home.png)
+![OWASP Juice Shop home page](screenshots/juice%20shop%20home.png)
 
 ### Burp Suite HTTP History
 
-![Burp Suite HTTP history](burp http history.png)
+![Burp Suite HTTP history](screenshots/burp%20http%20history.png)
 
 ### Public Directory Listing
 
-![FTP directory listing](ftp directory listing.png)
+![FTP directory listing](screenshots/ftp%20directory%20listing.png)
 
 ## Skills Demonstrated
 
