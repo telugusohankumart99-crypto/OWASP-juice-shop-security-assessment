@@ -73,4 +73,4 @@ Directory listings can reveal file names, backup files, documents, configuration
 
 - `robots.txt` contained `Disallow: /ftp`
 - The `/ftp/` endpoint returned `200 OK`
-- Screenshot: `screenshots/ftp directory listing.png`
+- Screenshot: `ftp directory listing.png`
